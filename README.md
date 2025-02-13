@@ -1,2 +1,2 @@
 # Event_Management_System
-The project outlines an Event Management System, which is designed to handle various aspects of organizing and managing events.
+The project outlines an Event Management System, which is designed to handle various aspects of organizing and managing events.It includes key components such as Event, Venue, Attendee, Speaker, Schedule, EventSpeaker, Payment, Tickets, and Registration. These sections likely define how different entities interact within an event, such as assigning speakers to events, managing attendees, scheduling sessions, and handling payments, ticketing and ensure smooth execution.
